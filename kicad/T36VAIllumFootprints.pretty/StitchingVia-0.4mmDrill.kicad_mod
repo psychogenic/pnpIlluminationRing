@@ -1,0 +1,14 @@
+(footprint "StitchingVia-0.4mmDrill" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0.508 1.016) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp db76f318-fc02-478c-baaf-8b916428a967)
+  )
+  (fp_text value "StitchingVia-0.4mmDrill" (at 0 -1.016) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a1c5c03e-2b23-4d2b-95c1-2bae67d986bc)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 0.82 0.82) (drill 0.4) (layers "*.Cu")
+    (zone_connect 2) (tstamp 4ca5656c-f708-4c8c-98bf-83ced6ae6f12))
+)

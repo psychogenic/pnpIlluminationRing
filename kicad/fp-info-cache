@@ -1,0 +1,50 @@
+11792189492343
+T36VAIllumFootprints
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+T36VAIllumFootprints
+Fiducial_1mm_Mask2mm
+Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)
+fiducial
+0
+1
+0
+T36VAIllumFootprints
+LED_PLCC-2
+LED PLCC-2 SMD package
+LED PLCC-2 SMD
+0
+2
+2
+T36VAIllumFootprints
+PinHeader_1x02_P2.54mm_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+T36VAIllumFootprints
+PsychologoMini
+
+
+0
+0
+0
+T36VAIllumFootprints
+R_0805_2012Metric
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+T36VAIllumFootprints
+StitchingVia-0.4mmDrill
+
+
+0
+1
+1

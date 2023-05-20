@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "T36VAIllumFootprints")(type "KiCad")(uri "${KIPRJMOD}/T36VAIllumFootprints.pretty")(options "")(descr ""))
+)
