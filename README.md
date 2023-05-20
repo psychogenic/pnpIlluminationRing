@@ -5,7 +5,7 @@ It's a simple little LED ring that has made a big impact on the reliability of t
 and I've used it with a number of differently sized fiducials under various lighting conditions to great
 success.
 
-[LED Ring](https://github.com/psychogenic/pnpIlluminationRing/blob/4e06750fdb2ba5967a5b3e992c8249c8dd84fc96/images/illuminationring.png)
+![LED Ring](https://github.com/psychogenic/pnpIlluminationRing/blob/4e06750fdb2ba5967a5b3e992c8249c8dd84fc96/images/illuminationring.png)
 
 
 I've detailed the project and demoed its function [on youtube](https://youtu.be/Ot52M9ZeZmY).
