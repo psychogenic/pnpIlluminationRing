@@ -4,7 +4,7 @@ Open source hardware illumination ring project, for Charmhigh T36VA pick and pla
 I've detailed the project and demoed its function [on youtube](https://youtu.be/Ot52M9ZeZmY).
 
 The project is released under the CERN OHL license, see LICENSE.txt for deets.
-
+```
 --------------------------------------------------------------------------------
 | Copyright Pat Deegan 2023.                                                   |
 |                                                                              |
@@ -24,3 +24,4 @@ The project is released under the CERN OHL license, see LICENSE.txt for deets.
 | on the external case of the Gizmo or other products you make using this      |
 | source.                                                                      |
 --------------------------------------------------------------------------------
+```
